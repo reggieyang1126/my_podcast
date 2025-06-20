@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>Health &amp; Wellness Podcast</title>
+    <title>Healthcare Industry Insights</title>
     <description>Healthcare industry insights, market analysis, and expert perspectives on the evolving healthcare landscape.</description>
     <language>en-us</language>
     <link>https://reggieyang1126.github.io/my_podcast/feeds/health/</link>
-    <copyright>&#169; 2025 Health &amp; Wellness Podcast</copyright>
+    <copyright>&#169; 2025 Healthcare Industry Insights</copyright>
     <managingEditor>your-email@example.com</managingEditor>
     <webMaster>your-email@example.com</webMaster>
     <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
@@ -20,7 +20,7 @@
       <itunes:email>your-email@example.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://reggieyang1126.github.io/my_podcast/feeds/health/podcast_image.png"/>
-    <itunes:category text="Health &amp; Fitness"/>
+    <itunes:category text="Business"/>
     <itunes:explicit>no</itunes:explicit>
 
     <!-- Sample Episode 1 -->
