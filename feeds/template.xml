@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+PODCAST RSS FEED TEMPLATE
+Copy this file to create a new podcast topic feed.
+
+STEPS TO USE THIS TEMPLATE:
+1. Copy this file to a new folder: feeds/YOUR_TOPIC_NAME/feed.xml
+2. Replace all placeholders marked with YOUR_* with your actual content
+3. Update the episode items with your real episodes
+4. Get Google Drive direct download links for your audio files
+5. Test your feed in a podcast app before publishing
+
+IMPORTANT PLACEHOLDERS TO REPLACE:
+- YOUR_PODCAST_TITLE: The name of your podcast
+- YOUR_DESCRIPTION: Brief description of your podcast
+- YOUR_TOPIC_NAME: The folder name/topic (e.g., "health", "finance")
+- yourusername: Your GitHub username
+- your-email@example.com: Your actual email address
+- YOUR_NAME: Your actual name
+- YOUR_GOOGLE_DRIVE_FILE_ID_*: Replace with actual Google Drive file IDs
+- Episode titles, descriptions, dates, and durations
+-->
+
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <!-- REQUIRED: Basic channel information -->
+    <title>YOUR_PODCAST_TITLE</title>
+    <description>YOUR_DESCRIPTION</description>
+    <language>en-us</language> <!-- Change if not English -->
+    <link>https://yourusername.github.io/my_podcast/feeds/YOUR_TOPIC_NAME/</link>
+    
+    <!-- OPTIONAL: Additional channel metadata -->
+    <copyright>© 2024 YOUR_PODCAST_TITLE</copyright>
+    <managingEditor>your-email@example.com</managingEditor>
+    <webMaster>your-email@example.com</webMaster>
+    <pubDate>Wed, 01 Jan 2024 00:00:00 +0000</pubDate> <!-- Update with your publish date -->
+    <lastBuildDate>Wed, 01 Jan 2024 00:00:00 +0000</lastBuildDate> <!-- Update when you add episodes -->
+    <generator>Manual RSS Feed</generator>
+    
+    <!-- ITUNES-SPECIFIC TAGS (recommended for podcast apps) -->
+    <itunes:author>YOUR_NAME</itunes:author>
+    <itunes:summary>YOUR_DESCRIPTION</itunes:summary>
+    <itunes:owner>
+      <itunes:name>YOUR_NAME</itunes:name>
+      <itunes:email>your-email@example.com</itunes:email>
+    </itunes:owner>
+    <!-- Optional: Add podcast artwork -->
+    <itunes:image href="https://yourusername.github.io/my_podcast/feeds/YOUR_TOPIC_NAME/artwork.jpg"/>
+    
+    <!-- CATEGORY: Choose appropriate iTunes categories -->
+    <!-- Common categories: Technology, Business, Health & Fitness, Education, Arts, Comedy, etc. -->
+    <itunes:category text="YOUR_CATEGORY"/>
+    <itunes:explicit>no</itunes:explicit> <!-- Change to "yes" if explicit content -->
+
+    <!-- EPISODE TEMPLATE -->
+    <!-- Copy this <item> block for each episode -->
+    <item>
+      <title>Episode 1: YOUR_EPISODE_TITLE</title>
+      <description>YOUR_EPISODE_DESCRIPTION - Provide a detailed description of what listeners can expect from this episode.</description>
+      <link>https://yourusername.github.io/my_podcast/feeds/YOUR_TOPIC_NAME/</link>
+      <guid>YOUR_TOPIC_NAME-episode-001</guid> <!-- Unique identifier for this episode -->
+      <pubDate>Wed, 01 Jan 2024 09:00:00 +0000</pubDate> <!-- Episode publish date -->
+      
+      <!-- AUDIO FILE: This is where your Google Drive link goes -->
+      <enclosure 
+        url="https://drive.google.com/uc?export=download&amp;id=YOUR_GOOGLE_DRIVE_FILE_ID_1" 
+        length="25600000" 
+        type="audio/mpeg"/>
+      <!-- 
+      IMPORTANT NOTES ABOUT THE ENCLOSURE:
+      - Replace YOUR_GOOGLE_DRIVE_FILE_ID_1 with your actual Google Drive file ID
+      - The length should be the file size in bytes (estimate is fine)
+      - type="audio/mpeg" for MP3 files, "audio/x-m4a" for M4A files
+      -->
+      
+      <!-- iTunes episode metadata -->
+      <itunes:duration>26:40</itunes:duration> <!-- Format: HH:MM:SS or MM:SS -->
+      <itunes:summary>YOUR_EPISODE_DESCRIPTION</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    
+    <!-- ADD MORE EPISODES HERE -->
+    <!-- Copy the <item> block above for each additional episode -->
+    <!-- Remember to update:
+         - Episode number in title and guid
+         - Unique episode title and description
+         - New publish date
+         - New Google Drive file ID
+         - Correct duration
+    -->
+
+  </channel>
+</rss> 
