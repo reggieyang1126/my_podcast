@@ -2,42 +2,58 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Health &amp; Wellness Podcast</title>
-    <description>Your weekly dose of health tips, wellness advice, and expert insights for a healthier lifestyle.</description>
+    <description>Healthcare industry insights, market analysis, and expert perspectives on the evolving healthcare landscape.</description>
     <language>en-us</language>
     <link>https://reggieyang1126.github.io/my_podcast/feeds/health/</link>
     <copyright>&#169; 2025 Health &amp; Wellness Podcast</copyright>
     <managingEditor>your-email@example.com</managingEditor>
     <webMaster>your-email@example.com</webMaster>
-    <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+    <lastBuildDate>Fri, 20 Jun 2025 00:00:00 +0000</lastBuildDate>
     <generator>Manual RSS Feed</generator>
     
     <!-- iTunes-specific tags -->
     <itunes:author>Reggie Yang</itunes:author>
-    <itunes:summary>Your weekly dose of health tips, wellness advice, and expert insights for a healthier lifestyle.</itunes:summary>
+    <itunes:summary>Healthcare industry insights, market analysis, and expert perspectives on the evolving healthcare landscape.</itunes:summary>
     <itunes:owner>
       <itunes:name>Reggie Yang</itunes:name>
       <itunes:email>your-email@example.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://reggieyang1126.github.io/my_podcast/feeds/health/artwork.jpg"/>
+    <itunes:image href="https://reggieyang1126.github.io/my_podcast/feeds/health/podcast_image.png"/>
     <itunes:category text="Health &amp; Fitness"/>
     <itunes:explicit>no</itunes:explicit>
 
     <!-- Sample Episode 1 -->
     <item>
       <title>Episode 1: Enhertu Redrawing the Breast Cancer Map</title>
-      <description>Discover simple morning routines that can transform your health and energy levels throughout the day. We cover hydration, movement, and mindfulness practices.</description>
+      <description>An in-depth analysis of Enhertu's breakthrough impact on breast cancer treatment, exploring market dynamics, clinical outcomes, and industry implications for oncology therapeutics.</description>
       <link>https://reggieyang1126.github.io/my_podcast/feeds/health/</link>
       <guid>health-episode-001</guid>
-      <pubDate>Mon, 01 Jan 2024 09:00:00 +0000</pubDate>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
       <enclosure 
         url="https://drive.google.com/uc?export=download&amp;id=1Xzg3025jciRQmvzvsL6CZnxU45vOLwuO" 
         length="25600000" 
         type="audio/mpeg"/>
       <itunes:duration>26:40</itunes:duration>
-      <itunes:summary>Discover simple morning routines that can transform your health and energy levels throughout the day.</itunes:summary>
+      <itunes:summary>An in-depth analysis of Enhertu's breakthrough impact on breast cancer treatment, exploring market dynamics and industry implications.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>Episode 2: AstraZeneca's Strategic Roadmap in Breast Cancer</title>
+      <description>An in-depth analysis of AstraZeneca's strategic roadmap in breast cancer, exploring market dynamics, clinical outcomes, and industry implications for oncology therapeutics.</description>
+      <link>https://reggieyang1126.github.io/my_podcast/feeds/health/</link>
+      <guid>health-episode-002</guid>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      <enclosure 
+        url="https://drive.google.com/uc?export=download&amp;id=1spwjPgvLLAYbGNWmIgnGNrrLWOVlG9YX" 
+        length="25600000" 
+        type="audio/mpeg"/>
+      <itunes:duration>22:40</itunes:duration>
+      <itunes:summary>An in-depth analysis of AstraZeneca's strategic roadmap in breast cancer, exploring market dynamics and industry implications.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
 
   </channel>
 </rss> 
