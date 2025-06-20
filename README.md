@@ -68,15 +68,15 @@ Google Drive sharing links won't work directly in RSS feeds. You need **direct d
 4. Click **Save**
 
 Your feeds will be available at:
-- `https://reggieyang1126.github.io/repository-name/feeds/health/feed.xml`
-- `https://reggieyang1126.github.io/repository-name/feeds/finance/feed.xml`
+- `https://reggieyang1126.github.io/my_podcast/feeds/health/feed.xml`
+- `https://reggieyang1126.github.io/my_podcast/feeds/finance/feed.xml`
 
 ## 📱 Adding to Podcast Apps
 
 ### Apple Podcasts (iOS)
 1. Open the **Podcasts** app
 2. Tap **Library** → **Edit** → **Add Show by URL**
-3. Enter your RSS feed URL: `https://reggieyang1126.github.io/repository-name/feeds/health/feed.xml`
+3. Enter your RSS feed URL: `https://reggieyang1126.github.io/my_podcast/feeds/health/feed.xml`
 4. Tap **Subscribe**
 
 ### Spotify
