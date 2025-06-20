@@ -30,7 +30,7 @@ IMPORTANT PLACEHOLDERS TO REPLACE:
     <link>https://yourusername.github.io/my_podcast/feeds/YOUR_TOPIC_NAME/</link>
     
     <!-- OPTIONAL: Additional channel metadata -->
-    <copyright>© 2024 YOUR_PODCAST_TITLE</copyright>
+    <copyright>&copy; 2024 YOUR_PODCAST_TITLE</copyright>
     <managingEditor>your-email@example.com</managingEditor>
     <webMaster>your-email@example.com</webMaster>
     <pubDate>Wed, 01 Jan 2024 00:00:00 +0000</pubDate> <!-- Update with your publish date -->
