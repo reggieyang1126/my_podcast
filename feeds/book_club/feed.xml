@@ -85,5 +85,20 @@
       <itunes:summary>Exploring Jay Sullivan's practical guide to clear, confident communication in professional settings.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>Book 5: Zero to One: Notes on Startups, or How to Build the Future</title>
+      <description>Diving into Peter Thiel's contrarian insights on innovation and building monopolistic businesses. We explore how to go from zero to one by creating something entirely new, the importance of secrets, and why competition can be destructive for businesses.</description>
+      <link>https://reggieyang1126.github.io/my_podcast/feeds/book_club/</link>
+      <guid>bookclub-episode-005</guid>
+      <pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate>
+      <enclosure 
+        url="https://drive.google.com/uc?export=download&amp;id=1SxjrpFwd8VkKDXH6jONMBVi8IHeYMAQk" 
+        length="11200000" 
+        type="audio/mpeg"/>
+      <itunes:duration>9:30</itunes:duration>
+      <itunes:summary>Diving into Peter Thiel's contrarian insights on innovation and building monopolistic businesses.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss> 
