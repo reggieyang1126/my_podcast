@@ -6,8 +6,8 @@
     <language>en-us</language>
     <link>https://reggieyang1126.github.io/my_podcast/feeds/book_club/</link>
     <copyright>&#169; 2025 The 10-Min Book Club</copyright>
-    <managingEditor>your-email@example.com</managingEditor>
-    <webMaster>your-email@example.com</webMaster>
+    <managingEditor>ylijun93@outlook.com</managingEditor>
+    <webMaster>ylijun93@outlook.com</webMaster>
     <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
     <lastBuildDate>Fri, 20 Jun 2025 00:00:00 +0000</lastBuildDate>
     <generator>Manual RSS Feed</generator>
@@ -17,7 +17,7 @@
     <itunes:summary>Quick, insightful book summaries and recommendations in just 10 minutes. Join us as we explore the best books across fiction, non-fiction, and everything in between.</itunes:summary>
     <itunes:owner>
       <itunes:name>Reggie Yang</itunes:name>
-      <itunes:email>your-email@example.com</itunes:email>
+      <itunes:email>ylijun93@outlook.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://reggieyang1126.github.io/my_podcast/feeds/book_club/podcast_image.png"/>
     <itunes:category text="Arts">
@@ -51,7 +51,7 @@
         url="https://drive.google.com/uc?export=download&amp;id=1hq9r15fbTbl5PQi6RbMthrn_VP4xPzZo" 
         length="11200000" 
         type="audio/mpeg"/>
-      <itunes:duration>9:30</itunes:duration>
+      <itunes:duration>8:58</itunes:duration>
       <itunes:summary>Diving into Jocko Willink and Leif Babin's powerful leadership principles about taking complete responsibility.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -81,7 +81,7 @@
         url="https://drive.google.com/uc?export=download&amp;id=17vYW3M20BW211Qy6udR_hcDu2mYobzPO" 
         length="11200000" 
         type="audio/mpeg"/>
-      <itunes:duration>9:30</itunes:duration>
+      <itunes:duration>10:30</itunes:duration>
       <itunes:summary>Exploring Jay Sullivan's practical guide to clear, confident communication in professional settings.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
