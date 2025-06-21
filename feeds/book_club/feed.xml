@@ -100,5 +100,34 @@
       <itunes:summary>Diving into Peter Thiel's contrarian insights on innovation and building monopolistic businesses.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
-  </channel>
+
+    <item>
+      <title>Book 6: The Let Them Theory: A Life-Changing Tool That Millions of People Can't Stop Talking About</title>
+      <description>Discover Mel Robbins' revolutionary approach to finding peace and freedom by simply letting people be themselves. This #1 New York Times, Sunday Times, Amazon, and Audible Bestseller reveals how this simple yet profound mindset shift can end relationship conflicts, reduce stress, and help you reclaim your energy by focusing on what you can actually control.</description>
+      <link>https://reggieyang1126.github.io/my_podcast/feeds/book_club/</link>
+      <guid>bookclub-episode-006</guid>
+      <pubDate>Sat, 21 Jun 2025 16:00:00 +0000</pubDate>
+      <enclosure 
+        url="https://drive.google.com/uc?export=download&amp;id=1W_4iC9DWOBzV7_sl4qRUErDWvW_WWT97" 
+        length="11200000" 
+        type="audio/mpeg"/>
+      <itunes:duration>11:51</itunes:duration>
+      <itunes:summary>Discover Mel Robbins' revolutionary approach to finding peace by letting people be themselves and focusing on what you can control.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Book 7: How to Win Friends and Influence People</title>
+      <description>Unlocking Dale Carnegie's timeless secrets to building powerful relationships and becoming genuinely influential. We dive into the psychology of human connection, exploring how to make people feel important, handle criticism gracefully, and turn opponents into allies through authentic interest and appreciation.</description>
+      <link>https://reggieyang1126.github.io/my_podcast/feeds/book_club/</link>
+      <guid>bookclub-episode-007</guid>
+      <pubDate>Sat, 21 Jun 2025 17:00:00 +0000</pubDate>
+      <enclosure 
+        url="https://drive.google.com/uc?export=download&amp;id=1Buv5cUy4H1rhK439CaS9KPZKst1T15gC" 
+        length="11200000" 
+        type="audio/mpeg"/>
+      <itunes:duration>8:24</itunes:duration>
+      <itunes:summary>Unlocking Dale Carnegie's timeless secrets to building powerful relationships and becoming genuinely influential through authentic connection.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </rss> 
