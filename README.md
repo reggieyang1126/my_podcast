@@ -69,7 +69,7 @@ Google Drive sharing links won't work directly in RSS feeds. You need **direct d
 
 Your feeds will be available at:
 - `https://reggieyang1126.github.io/my_podcast/feeds/health/feed.xml`
-- `https://reggieyang1126.github.io/my_podcast/feeds/finance/feed.xml`
+- `https://reggieyang1126.github.io/my_podcast/feeds/book_club/feed.xml`
 
 ## 📱 Adding to Podcast Apps
 
