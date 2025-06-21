@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>The 10-Min Book Club</title>
+    <description>Quick, insightful book summaries and recommendations in just 10 minutes. Join us as we explore the best books across fiction, non-fiction, and everything in between.</description>
+    <language>en-us</language>
+    <link>https://reggieyang1126.github.io/my_podcast/feeds/book_club/</link>
+    <copyright>&#169; 2025 The 10-Min Book Club</copyright>
+    <managingEditor>your-email@example.com</managingEditor>
+    <webMaster>your-email@example.com</webMaster>
+    <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+    <lastBuildDate>Fri, 20 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Manual RSS Feed</generator>
+    
+    <!-- iTunes-specific tags -->
+    <itunes:author>Reggie Yang</itunes:author>
+    <itunes:summary>Quick, insightful book summaries and recommendations in just 10 minutes. Join us as we explore the best books across fiction, non-fiction, and everything in between.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Reggie Yang</itunes:name>
+      <itunes:email>your-email@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://reggieyang1126.github.io/my_podcast/feeds/book_club/podcast_image.png"/>
+    <itunes:category text="Arts">
+      <itunes:category text="Books"/>
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+
+    <!-- Sample Episode 1 -->
+    <item>
+      <title>Book 1: The Untethered Soul – The Journey Beyond Yourself</title>
+      <description>Exploring Michael Singer's transformative guide to spiritual awakening and inner freedom. We discuss how to break free from habitual thoughts, embrace consciousness, and find peace beyond the constant chatter of the mind.</description>
+      <link>https://reggieyang1126.github.io/my_podcast/feeds/book_club/</link>
+      <guid>bookclub-episode-001</guid>
+      <pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate>
+      <enclosure 
+        url="https://drive.google.com/uc?export=download&amp;id=1QbCg23geYDA0mUJsXQmlDhkSd6j6neyG" 
+        length="12800000" 
+        type="audio/mpeg"/>
+      <itunes:duration>10:00</itunes:duration>
+      <itunes:summary>Exploring Michael Singer's transformative guide to spiritual awakening and breaking free from habitual thoughts.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Book 2: Extreme Ownership – How Navy SEALs Lead and Win</title>
+      <description>Diving into Jocko Willink and Leif Babin's powerful leadership principles forged in combat. We explore how taking complete responsibility for everything in your world leads to better outcomes in business, teams, and life.</description>
+      <link>https://reggieyang1126.github.io/my_podcast/feeds/book_club/</link>
+      <guid>bookclub-episode-002</guid>
+      <pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate>
+      <enclosure 
+        url="https://drive.google.com/uc?export=download&amp;id=1hq9r15fbTbl5PQi6RbMthrn_VP4xPzZo" 
+        length="11200000" 
+        type="audio/mpeg"/>
+      <itunes:duration>9:30</itunes:duration>
+      <itunes:summary>Diving into Jocko Willink and Leif Babin's powerful leadership principles about taking complete responsibility.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Book 3: The Psychology of Money – Timeless Lessons on Wealth, Greed, and Happiness</title>
+      <description>Unpacking Morgan Housel's insights into how psychology, emotions, and behavior drive financial decisions. We discuss why being reasonable beats being rational, the power of compounding, and how to build lasting wealth through better money habits.</description>
+      <link>https://reggieyang1126.github.io/my_podcast/feeds/book_club/</link>
+      <guid>bookclub-episode-003</guid>
+      <pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate>
+      <enclosure 
+        url="https://drive.google.com/uc?export=download&amp;id=1-k_MoaDhyvT1vQmPOaShFsmB-_IopJ10" 
+        length="11200000" 
+        type="audio/mpeg"/>
+      <itunes:duration>9:30</itunes:duration>
+      <itunes:summary>Unpacking Morgan Housel's insights into how psychology and behavior drive financial decisions.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Book 4: Simply Said – Communicating Better at Work and Beyond</title>
+      <description>Exploring Jay Sullivan's practical guide to clear, confident communication in professional and personal settings. We cover how to structure your thoughts, engage your audience, and deliver messages that resonate and inspire action.</description>
+      <link>https://reggieyang1126.github.io/my_podcast/feeds/book_club/</link>
+      <guid>bookclub-episode-004</guid>
+      <pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate>
+      <enclosure 
+        url="https://drive.google.com/uc?export=download&amp;id=17vYW3M20BW211Qy6udR_hcDu2mYobzPO" 
+        length="11200000" 
+        type="audio/mpeg"/>
+      <itunes:duration>9:30</itunes:duration>
+      <itunes:summary>Exploring Jay Sullivan's practical guide to clear, confident communication in professional settings.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss> 
