@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>The 10-Min Book Club</title>
-    <description>Quick, insightful book summaries and recommendations in just 10 minutes. Join us as we explore the best books across fiction, non-fiction, and everything in between.</description>
+    <description>In just 10 minutes, absorb the most important insights from the world's most popular and highest-rated books. Master key concepts that took authors years to develop – condensed into bite-sized episodes that transform how you think, work, and live.</description>
     <language>en-us</language>
     <link>https://reggieyang1126.github.io/my_podcast/feeds/book_club/</link>
     <copyright>&#169; 2025 The 10-Min Book Club</copyright>
@@ -14,7 +14,7 @@
     
     <!-- iTunes-specific tags -->
     <itunes:author>Reggie Yang</itunes:author>
-    <itunes:summary>Quick, insightful book summaries and recommendations in just 10 minutes. Join us as we explore the best books across fiction, non-fiction, and everything in between.</itunes:summary>
+    <itunes:summary>In just 10 minutes, absorb the most important insights from the world's most popular and highest-rated books. Master key concepts that took authors years to develop – condensed into bite-sized episodes that transform how you think, work, and live.</itunes:summary>
     <itunes:owner>
       <itunes:name>Reggie Yang</itunes:name>
       <itunes:email>ylijun93@outlook.com</itunes:email>
