@@ -131,5 +131,19 @@
       <itunes:explicit>no</itunes:explicit>
     </item>
 
+    <item>
+      <title>Book 8: Atomic Habits: An Easy and Proven Way to Build Good Habits and Break Bad Ones</title>
+      <description>Master the life-changing power of tiny changes with James Clear's groundbreaking system for habit formation. Discover how 1% improvements compound into remarkable results, learn the four-step habit loop that rewires your brain, and unlock the secrets to making good habits inevitable and bad habits impossible. Transform your identity and achieve extraordinary outcomes through the science of small wins.</description>
+      <link>https://reggieyang1126.github.io/my_podcast/feeds/book_club/</link>
+      <guid>bookclub-episode-008</guid>
+      <pubDate>Mon, 23 Jun 2025 23:00:00 +0000</pubDate>
+      <enclosure 
+        url="https://drive.google.com/uc?export=download&amp;id=1_u3iXnnYIVpjv8Rvt7iAPs-C9saepl9r" 
+        length="11200000" 
+        type="audio/mpeg"/>
+      <itunes:duration>11:26</itunes:duration>
+      <itunes:summary>Master the life-changing power of tiny changes with James Clear's system for building habits that stick and breaking the ones that don't.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>
