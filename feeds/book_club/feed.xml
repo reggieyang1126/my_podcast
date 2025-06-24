@@ -145,5 +145,20 @@
       <itunes:summary>Master the life-changing power of tiny changes with James Clear's system for building habits that stick and breaking the ones that don't.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>Book 9: $100M Offers: How To Make Offers So Good People Feel Stupid Saying No</title>
+      <description>Unlock Alex Hormozi's battle-tested formula for creating irresistible business offers that practically sell themselves. Discover the exact framework that transformed struggling businesses into $100M+ enterprises by making prospects feel like idiots for saying no. Learn how to craft offers so compelling that price becomes irrelevant and customers thank you for taking their money.</description>
+      <link>https://reggieyang1126.github.io/my_podcast/feeds/book_club/</link>
+      <guid>bookclub-episode-009</guid>
+      <pubDate>Tue, 24 Jun 2025 09:00:00 +0000</pubDate>
+      <enclosure 
+        url="https://drive.google.com/uc?export=download&amp;id=1A46jsGCGchIvlbwm1tHx_O71uau54bux" 
+        length="11200000" 
+        type="audio/mpeg"/>
+      <itunes:duration>10:34</itunes:duration>
+      <itunes:summary>Unlock Alex Hormozi's battle-tested formula for creating irresistible offers that transform struggling businesses into $100M+ enterprises.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>
