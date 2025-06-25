@@ -160,5 +160,20 @@
       <itunes:summary>Unlock Alex Hormozi's battle-tested formula for creating irresistible offers that transform struggling businesses into $100M+ enterprises.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>Book 10: Emotional Intelligence 2.0: A Simple Framework for Mastering the Emotions That Control Your Life</title>
+      <description>Why do some people effortlessly navigate conflicts while others crumble under pressure? Discover Travis Bradberry and Jean Greaves' groundbreaking system that reveals the four core skills separating high performers from everyone else. Learn how to read emotions like a superpower, manage your reactions under stress, and influence others without manipulation. This isn't about suppressing feelings—it's about leveraging them for unstoppable success in work and life.</description>
+      <link>https://reggieyang1126.github.io/my_podcast/feeds/book_club/</link>
+      <guid>bookclub-episode-010</guid>
+      <pubDate>Wed, 25 Jun 2025 09:00:00 +0000</pubDate>
+      <enclosure 
+        url="https://drive.google.com/uc?export=download&amp;id=1RkJ6xLBoEJpXbYILwAPnIJKjBnCVDE0t" 
+        length="11200000" 
+        type="audio/mpeg"/>
+      <itunes:duration>11:19</itunes:duration>
+      <itunes:summary>Discover the four core emotional intelligence skills that separate high performers from everyone else and learn to leverage emotions for success.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>
