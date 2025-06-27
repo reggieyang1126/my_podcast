@@ -190,5 +190,20 @@
       <itunes:summary>Discover neuroscientist Matthew Walker's shocking revelations about sleep's impact on performance, health, and how simple changes can transform your life.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>Book 12: The 7 Habits of Highly Effective People – Powerful Lessons in Personal Change</title>
+      <description>What separates truly successful people from everyone else? Stephen Covey's timeless masterpiece reveals the character-based principles that have transformed millions of lives across decades. Discover the proven roadmap from dependence to independence to interdependence, learn why "Begin with the End in Mind" changes everything, and master the habits that create lasting success in relationships, leadership, and personal fulfillment. This isn't just self-help—it's a complete philosophy for living with purpose and integrity.</description>
+      <link>https://reggieyang1126.github.io/my_podcast/feeds/book_club/</link>
+      <guid>bookclub-episode-012</guid>
+      <pubDate>Fri, 27 Jun 2025 09:00:00 +0000</pubDate>
+      <enclosure 
+        url="https://drive.google.com/uc?export=download&amp;id=1Ki23cPysmdXQENjE9ciRd440d7ERXEzd" 
+        length="11200000" 
+        type="audio/mpeg"/>
+      <itunes:duration>12:40</itunes:duration>
+      <itunes:summary>Discover Stephen Covey's character-based principles and the proven roadmap to lasting success in relationships, leadership, and personal fulfillment.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>
