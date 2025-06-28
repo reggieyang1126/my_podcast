@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Small Thoughts, Big Shifts</title>
+    <description>Big insights in small doses. In just 5 minutes, explore personal growth ideas from books, articles, and podcasts. A quick spark for reflection and change—every week.</description>    
+    <language>en-us</language>
+    <link></link>
+    <copyright>&#169; 2025 Small Thoughts, Big Shifts</copyright>
+    <managingEditor>qianlong0731@gmail.com</managingEditor>
+    <webMaster>qianlong0731@gmail.com</webMaster>
+    <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
+  <lastBuildDate>Fri, 27 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Manual RSS Feed</generator>
+    
+    <!-- iTunes-specific tags -->
+    <itunes:author>Qian</itunes:author>
+    <itunes:summary>Big insights in small doses. A weekly 5-minute audio spark—curated from the best ideas in books, articles, and podcasts. Designed for personal growth, reflection, and a better you.</itunes:summary>    <itunes:owner>
+      <itunes:name>Qian</itunes:name>
+      <itunes:email>qianlong0731@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://reggieyang1126.github.io/my_podcast/feeds/stbs/podcast_image.png"/>
+    <itunes:category text="Education">
+      <itunes:category text="Self-Improvement"/>
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+
+    <!-- Sample Episode 1 -->
+    <item>
+      <title>Episode 1: Your Sleep Starts in the Morning</title>
+      <description>Feeling tired even after a full night's sleep? The problem might not be your bed, but your morning. Drawing on groundbreaking neuroscience from the Huberman Lab, this episode reveals how simple morning habits—like when you see light and when you drink coffee—can dramatically improve your sleep. Learn four actionable steps to boost your energy and recovery. Ready to fix your sleep? It all starts tomorrow morning.</description>
+      <link>https://reggieyang1126.github.io/my_podcast/feeds/book_club/</link>
+      <guid>episode-001</guid>
+      <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
+      <enclosure 
+        url="https://drive.google.com/uc?export=download&amp;id=1DvEO6aGWSF9afqENNtsqH8u63xtaU3rv"
+        length="12800000" 
+        type="audio/mpeg"/>
+      <itunes:duration>4:10</itunes:duration>
+      <itunes:summary>Feeling tired even after a full night's sleep? The problem might not be your bed, but your morning. Drawing on groundbreaking neuroscience from the Huberman Lab, this episode reveals how simple morning habits—like when you see light and when you drink coffee—can dramatically improve your sleep. Learn four actionable steps to boost your energy and recovery. Ready to fix your sleep? It all starts tomorrow morning.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
