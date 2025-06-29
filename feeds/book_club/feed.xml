@@ -205,5 +205,35 @@
       <itunes:summary>Discover Stephen Covey's character-based principles and the proven roadmap to lasting success in relationships, leadership, and personal fulfillment.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>Book 13: Adult Children of Emotionally Immature Parents - How to Heal from Distant, Rejecting, or Self-Involved Parents</title>
+      <description>Why do some people struggle with relationships, boundaries, and self-worth despite their best efforts? Dr. Lindsay Gibson reveals the hidden impact of growing up with emotionally immature parents and provides a powerful roadmap to healing. Discover how to break free from childhood patterns, stop people-pleasing, set healthy boundaries, and finally give yourself the emotional validation you've been seeking from others. Transform your relationships and reclaim your authentic self.</description>
+      <link>https://reggieyang1126.github.io/my_podcast/feeds/book_club/</link>
+      <guid>bookclub-episode-013</guid>
+      <pubDate>Sun, 29 Jun 2025 09:00:00 +0000</pubDate>
+      <enclosure 
+        url="https://drive.google.com/uc?export=download&amp;id=1rKnWPZC_EM83ppD-aeaofVbxpkgyxXUO" 
+        length="11200000" 
+        type="audio/mpeg"/>
+      <itunes:duration>10:13</itunes:duration>
+      <itunes:summary>Learn to heal from emotionally immature parents, break destructive patterns, and build the healthy relationships you deserve.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Book 14: The China Study - The Most Comprehensive Study of Nutrition Ever Conducted and the Startling Implications for Diet, Weight Loss, and Long-Term Health</title>
+      <description>What if everything you thought you knew about nutrition was wrong? Dr. T. Colin Campbell presents groundbreaking research from the most comprehensive nutrition study ever conducted, revealing shocking truths about the connection between animal protein, chronic disease, and longevity. Discover how simple dietary changes can prevent—and even reverse—heart disease, diabetes, and cancer. This isn't another fad diet; it's life-changing science that could add decades to your life.</description>
+      <link>https://reggieyang1126.github.io/my_podcast/feeds/book_club/</link>
+      <guid>bookclub-episode-014</guid>
+      <pubDate>Sun, 29 Jun 2025 10:00:00 +0000</pubDate>
+      <enclosure 
+        url="https://drive.google.com/uc?export=download&amp;id=1tDMJO599_lm0rkZGwMYd6pgit_ySoG-J" 
+        length="11200000" 
+        type="audio/mpeg"/>
+      <itunes:duration>9:35</itunes:duration>
+      <itunes:summary>Discover groundbreaking nutrition research that reveals how simple dietary changes can prevent disease and transform your health.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>
