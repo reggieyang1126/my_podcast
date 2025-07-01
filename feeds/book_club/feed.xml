@@ -235,5 +235,50 @@
       <itunes:summary>Discover groundbreaking nutrition research that reveals how simple dietary changes can prevent disease and transform your health.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>Book 15: Hidden Potential - The Science of Achieving Greater Things</title>
+      <description>Why do some people consistently exceed expectations while others plateau? Adam Grant reveals the counterintuitive science behind unlocking your hidden potential and achieving greatness beyond your wildest dreams. Discover how to turn weaknesses into strengths, embrace the power of being uncomfortable, and develop the character skills that matter more than talent. This isn't about natural ability—it's about the untapped capacity that lies dormant within everyone.</description>
+      <link>https://reggieyang1126.github.io/my_podcast/feeds/book_club/</link>
+      <guid>bookclub-episode-015</guid>
+      <pubDate>Mon, 30 Jun 2025 19:00:00 +0000</pubDate>
+      <enclosure 
+        url="https://drive.google.com/uc?export=download&amp;id=1a7jINdRCtDpqp3AYe4JuJs0q2IJmU59Z" 
+        length="11200000" 
+        type="audio/mpeg"/>
+      <itunes:duration>9:22</itunes:duration>
+      <itunes:summary>Discover Adam Grant's science-backed strategies for unlocking your hidden potential and achieving greatness beyond your expectations.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Book 16: Outliers - The Story of Success</title>
+      <description>What separates the Beatles, Bill Gates, and top athletes from everyone else? Malcolm Gladwell shatters the myth of the self-made success story, revealing the hidden advantages, cultural legacies, and perfect timing that create extraordinary achievers. Discover the true secrets behind the 10,000-hour rule, why January birthdays dominate hockey, and how your cultural background can be your greatest asset. Success isn't just about talent—it's about opportunity, persistence, and being in the right place at the right time.</description>
+      <link>https://reggieyang1126.github.io/my_podcast/feeds/book_club/</link>
+      <guid>bookclub-episode-016</guid>
+      <pubDate>Mon, 30 Jun 2025 20:00:00 +0000</pubDate>
+      <enclosure 
+        url="https://drive.google.com/uc?export=download&amp;id=1o0itkgmmaNjKz6LBpgVDotNubOm6QQbU" 
+        length="11200000" 
+        type="audio/mpeg"/>
+      <itunes:duration>9:52</itunes:duration>
+      <itunes:summary>Malcolm Gladwell reveals the hidden advantages and perfect timing behind extraordinary success stories like the Beatles and Bill Gates.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Book 17: Tax-Free Wealth: How to Build Massive Wealth by Permanently Lowering Your Taxes</title>
+      <description>What if you could legally keep more of what you earn and build wealth faster than ever before? Tom Wheelwright reveals the insider tax strategies that the wealthy use to minimize their tax burden and maximize their wealth-building potential. Discover how to turn tax laws into your personal wealth-building toolkit, transform expenses into deductions, and create passive income streams that work in your favor. This isn't about tax evasion—it's about tax optimization that puts more money in your pocket permanently.</description>
+      <link>https://reggieyang1126.github.io/my_podcast/feeds/book_club/</link>
+      <guid>bookclub-episode-017</guid>
+      <pubDate>Mon, 30 Jun 2025 21:00:00 +0000</pubDate>
+      <enclosure 
+        url="https://drive.google.com/uc?export=download&amp;id=1Eh0POoMXvn0N3ZZbudTsXPZSoas73QvT" 
+        length="11200000" 
+        type="audio/mpeg"/>
+      <itunes:duration>8:20</itunes:duration>
+      <itunes:summary>Learn Tom Wheelwright's insider tax strategies to legally minimize your tax burden and accelerate your wealth-building journey.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>
