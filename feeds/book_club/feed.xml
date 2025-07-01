@@ -280,5 +280,20 @@
       <itunes:summary>Learn Tom Wheelwright's insider tax strategies to legally minimize your tax burden and accelerate your wealth-building journey.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+       <title>Book 18: Nonviolent Communication: A Language of Life: Life-Changing Tools for Healthy Relationships</title>
+       <description>What if you could transform every difficult conversation into a bridge of understanding? Marshall Rosenberg reveals the revolutionary communication method that has resolved conflicts in war zones, healed broken relationships, and created deeper connections in millions of lives. Discover how to express your needs without criticism, listen with genuine empathy, and turn arguments into opportunities for authentic connection. This isn't just about being nice—it's about communicating with such clarity and compassion that others naturally want to contribute to your well-being.</description>
+       <link>https://reggieyang1126.github.io/my_podcast/feeds/book_club/</link>
+       <guid>bookclub-episode-018</guid>
+       <pubDate>Tue, 01 Jul 2025 18:30:00 +0000</pubDate>
+       <enclosure 
+         url="https://drive.google.com/uc?export=download&amp;id=1jTbxGsDrpA7MsdM7p8yTKuLGLYDDIbJo" 
+         length="11200000" 
+         type="audio/mpeg"/>
+       <itunes:duration>10:55</itunes:duration>
+       <itunes:summary>Master Marshall Rosenberg's revolutionary communication method that transforms conflicts into connections and creates deeper, more authentic relationships.</itunes:summary>
+       <itunes:explicit>no</itunes:explicit>
+     </item>
   </channel>
 </rss>
