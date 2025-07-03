@@ -37,8 +37,8 @@
       <guid>bookclub-episode-001</guid>
       <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
       <enclosure 
-        url="https://mypodcast-1126.s3.amazonaws.com/The Surrender Experiment.mp3"
-        length="5695051" 
+        url="https://mypodcast-1126.s3.amazonaws.com/the_surrender_experiment.mp3"
+        length="8769258" 
         type="audio/mpeg"/>
       <itunes:duration>9:07</itunes:duration>
       <itunes:summary>Discover Michael Singer's incredible journey of surrendering to life's flow and how saying yes to everything led to extraordinary success.</itunes:summary>
@@ -67,7 +67,7 @@
       <guid>bookclub-episode-003</guid>
       <pubDate>Sat, 21 Jun 2025 09:00:00 +0000</pubDate>
       <enclosure 
-        url="https://mypodcast-1126.s3.amazonaws.com/The_Psychology_of_Money.txt.mp3" 
+        url="https://mypodcast-1126.s3.amazonaws.com/The_Psychology_of_Money.mp3" 
         length="7618875" 
         type="audio/mpeg"/>
       <itunes:duration>9:30</itunes:duration>
@@ -82,7 +82,7 @@
       <guid>bookclub-episode-004</guid>
       <pubDate>Sat, 21 Jun 2025 10:00:00 +0000</pubDate>
       <enclosure 
-        url="https://mypodcast-1126.s3.amazonaws.com/Simply Said.mp3" 
+        url="https://mypodcast-1126.s3.amazonaws.com/Simply_Said.mp3" 
         length="9651661" 
         type="audio/mpeg"/>
       <itunes:duration>10:30</itunes:duration>
@@ -172,7 +172,7 @@
       <guid>bookclub-episode-010</guid>
       <pubDate>Wed, 25 Jun 2025 09:00:00 +0000</pubDate>
       <enclosure 
-        url="https://mypodcast-1126.s3.amazonaws.com/Emotional_Intelligence_2.0.mp3" 
+        url="https://mypodcast-1126.s3.amazonaws.com/Emotional_Intelligence_2_0.mp3" 
         length="10872211" 
         type="audio/mpeg"/>
       <itunes:duration>11:19</itunes:duration>
@@ -216,7 +216,7 @@
       <link>https://reggieyang1126.github.io/my_podcast/feeds/book_club/</link>
       <guid>bookclub-episode-013</guid>
       <pubDate>Sun, 29 Jun 2025 09:00:00 +0000</pubDate>
-      <enclosure url="https://mypodcast-1126.s3.amazonaws.com/Adult Children of Emotionally Immature Parents v2.mp3" length="24313773" type="audio/mpeg"/>
+             <enclosure url="https://mypodcast-1126.s3.amazonaws.com/adult_children_of_emotionally_immature_parents.mp3" length="24313773" type="audio/mpeg"/>
       <itunes:duration>10:13</itunes:duration>
       <itunes:summary>Learn to heal from emotionally immature parents, break destructive patterns, and build the healthy relationships you deserve.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
@@ -229,7 +229,7 @@
       <guid>bookclub-episode-014</guid>
       <pubDate>Sun, 29 Jun 2025 10:00:00 +0000</pubDate>
       <enclosure 
-        url="https://mypodcast-1126.s3.amazonaws.com/The China Study.mp3" 
+        url="https://mypodcast-1126.s3.amazonaws.com/the_china_study.mp3" 
         length="11502764" 
         type="audio/mpeg"/>
       <itunes:duration>9:35</itunes:duration>
@@ -244,7 +244,7 @@
       <guid>bookclub-episode-015</guid>
       <pubDate>Mon, 30 Jun 2025 19:00:00 +0000</pubDate>
       <enclosure 
-        url="https://mypodcast-1126.s3.amazonaws.com/The Hidden Potential.mp3" 
+        url="https://mypodcast-1126.s3.amazonaws.com/the_hidden_potential.mp3" 
         length="22507145" 
         type="audio/mpeg"/>
       <itunes:duration>9:22</itunes:duration>
@@ -274,7 +274,7 @@
       <guid>bookclub-episode-017</guid>
       <pubDate>Mon, 30 Jun 2025 21:00:00 +0000</pubDate>
       <enclosure 
-        url="https://mypodcast-1126.s3.amazonaws.com/Tax-Free Wealth.mp3" 
+        url="https://mypodcast-1126.s3.amazonaws.com/tax_free_wealth.mp3" 
         length="20028647" 
         type="audio/mpeg"/>
       <itunes:duration>8:20</itunes:duration>
@@ -289,7 +289,7 @@
        <guid>bookclub-episode-018</guid>
        <pubDate>Tue, 01 Jul 2025 18:30:00 +0000</pubDate>
        <enclosure 
-         url="https://mypodcast-1126.s3.amazonaws.com/Nonviolent Communication v2.mp3" 
+         url="https://mypodcast-1126.s3.amazonaws.com/nonviolent_conversation_v2.mp3" 
          length="24795471" 
          type="audio/mpeg"/>
        <itunes:duration>10:55</itunes:duration>
@@ -304,7 +304,7 @@
         <guid>bookclub-episode-019</guid>
         <pubDate>Thu, 03 Jul 2025 08:00:00 +0000</pubDate>
         <enclosure 
-          url="https://mypodcast-1126.s3.amazonaws.com/crucial conversation.mp3" 
+          url="https://mypodcast-1126.s3.amazonaws.com/crucial_conversation.mp3" 
           length="20583488" 
           type="audio/mpeg"/>
         <itunes:duration>8:34</itunes:duration>
