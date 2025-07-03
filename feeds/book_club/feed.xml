@@ -295,5 +295,20 @@
        <itunes:summary>Master Marshall Rosenberg's revolutionary communication method that transforms conflicts into connections and creates deeper, more authentic relationships.</itunes:summary>
        <itunes:explicit>no</itunes:explicit>
      </item>
+
+      <item>
+        <title>Book 19: Crucial Conversations - Tools for Talking When Stakes are High</title>
+        <description>What happens when a single conversation could make or break your career, relationship, or life? Kerry Patterson and his team reveal the game-changing strategies that top performers use to navigate high-stakes conversations with confidence and skill. Discover how to speak up when it matters most, handle emotions under pressure, and create dialogue when others shut down or blow up. Master the art of staying calm when stakes are high, opinions vary, and emotions run strong—turning potential disasters into breakthrough moments.</description>
+        <link>https://reggieyang1126.github.io/my_podcast/feeds/book_club/</link>
+        <guid>bookclub-episode-019</guid>
+        <pubDate>Thu, 03 Jul 2025 08:00:00 +0000</pubDate>
+        <enclosure 
+          url="https://drive.google.com/uc?export=download&amp;id=1m8VBREreFb9Cv4mpYIVYN0zgg2QfBQl-" 
+          length="11200000" 
+          type="audio/mpeg"/>
+        <itunes:duration>8:34</itunes:duration>
+        <itunes:summary>Learn the game-changing strategies for navigating high-stakes conversations with confidence, turning potential disasters into breakthrough moments.</itunes:summary>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
   </channel>
 </rss>
