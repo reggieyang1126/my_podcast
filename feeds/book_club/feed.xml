@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" 
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0"
+     xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+    <atom:link href="https://reggieyang1126.github.io/my_podcast/feeds/book_club/feed.xml" rel="self" type="application/rss+xml"/>
     <title>The 10-Min Book Club</title>
     <description>Fast-paced world? No time to read? Struggling to keep up with that ever-growing book list? You're not alone. Get the best insights from bestselling books — all in under 10 minutes. Transform how you think, work, and live with bite-sized episodes that deliver maximum impact.</description>
     <language>en-us</language>
