@@ -323,5 +323,18 @@
          <itunes:summary>Discover Clayton Christensen's powerful framework for applying business strategy to create a life of profound meaning and lasting happiness.</itunes:summary>
          <itunes:explicit>no</itunes:explicit>
        </item>
+
+       <item>
+         <title>Book 21: $100M Leads - How to Get Strangers To Want To Buy Your Stuff</title>
+         <description>How do you turn complete strangers into eager customers who can't wait to buy from you? Alex Hormozi reveals the proven lead generation strategies that built his portfolio of companies worth over $100 million. Discover the exact systems for capturing attention, building trust, and creating irresistible offers that make prospects chase you instead of you chasing them. Learn how to master the art of getting strangers to not just notice you, but to actively want what you're selling before you even pitch them.</description>
+         <link>https://10minbookclub.com/</link>
+         <guid>bookclub-episode-021</guid>
+         <pubDate>Sat, 05 Jul 2025 08:00:00 +0000</pubDate>
+         <enclosure url="https://mypodcast-1126.s3.amazonaws.com/100M_leads.mp3" length="24809055" type="audio/mpeg"/>
+         <itunes:duration>10:20</itunes:duration>
+         <itunes:summary>Learn Alex Hormozi's proven lead generation strategies that turn complete strangers into eager customers who can't wait to buy from you.</itunes:summary>
+         <itunes:explicit>no</itunes:explicit>
+       </item>
+
   </channel>
 </rss>
