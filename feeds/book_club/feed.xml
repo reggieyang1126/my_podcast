@@ -336,5 +336,17 @@
          <itunes:explicit>no</itunes:explicit>
        </item>
 
+        <item>
+          <title>Book 22: The Untethered Soul - The Journey Beyond Yourself</title>
+          <description>What if the voice in your head isn't really you? Michael Singer reveals the profound spiritual journey of discovering your true self beyond the constant chatter of thoughts and emotions. Learn how to step back from the mental noise that creates suffering and discover the boundless consciousness that lies beneath. Explore practical techniques for releasing psychological baggage, opening your heart, and experiencing the freedom that comes from no longer being controlled by your mind. This isn't just philosophy—it's a roadmap to authentic inner peace and spiritual awakening.</description>
+          <link>https://10minbookclub.com/</link>
+          <guid>bookclub-episode-022</guid>
+          <pubDate>Sun, 06 Jul 2025 08:00:00 +0000</pubDate>
+          <enclosure url="https://mypodcast-1126.s3.amazonaws.com/the_untethered_soul.mp3" length="21753773" type="audio/mpeg"/>
+          <itunes:duration>9:53</itunes:duration>
+          <itunes:summary>Discover Michael Singer's profound spiritual journey to find your true self beyond mental chatter and experience authentic inner peace and freedom.</itunes:summary>
+          <itunes:explicit>no</itunes:explicit>
+        </item>
+
   </channel>
 </rss>
