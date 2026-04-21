@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>The Daily Healthcare</title>
+    <description>A 31-episode walk through the U.S. healthcare system for investors, PMs, analysts, and operators. Each episode unpacks the mechanics, money anchors, and tensions behind how care actually gets paid for — from payer economics and Medicare Advantage to RCM, drug pricing, and value-based care.</description>
+    <language>en-us</language>
+    <link>https://reggieyang1126.github.io/my_podcast/feeds/daily_healthcare/</link>
+    <copyright>&#169; 2026 The Daily Healthcare</copyright>
+    <managingEditor>ljyang.1126@gmail.com</managingEditor>
+    <webMaster>ljyang.1126@gmail.com</webMaster>
+    <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+    <lastBuildDate>Tue, 21 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Manual RSS Feed</generator>
+
+    <!-- iTunes-specific tags -->
+    <itunes:author>Reggie Yang</itunes:author>
+    <itunes:summary>A 31-episode walk through the U.S. healthcare system for investors, PMs, analysts, and operators — the mechanics, money anchors, and tensions behind how care gets paid for.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Reggie Yang</itunes:name>
+      <itunes:email>ljyang.1126@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://reggieyang1126.github.io/my_podcast/feeds/daily_healthcare/healthcare_cover.png"/>
+    <itunes:category text="Business"/>
+    <itunes:explicit>no</itunes:explicit>
+
+    <item>
+      <title>Episode 1: Why America pays double for worse healthcare</title>
+      <description>The U.S. spends ~$15,500 per capita on healthcare — more than double the OECD average — and gets worse life expectancy. We walk through the four design choices behind the gap: why healthcare breaks normal market rules, the five players (and the fully-insured vs self-insured split most people miss), the ten-step revenue cycle, and the WWII-era path dependence the U.S. can't easily unwind.</description>
+      <link>https://reggieyang1126.github.io/my_podcast/feeds/daily_healthcare/</link>
+      <guid>daily-healthcare-episode-001</guid>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+      <enclosure
+        url="https://drive.google.com/uc?export=download&amp;id=163LgXUyNs5ovibnTHKkOFqgwKAC2QUGt"
+        length="10000000"
+        type="audio/mpeg"/>
+      <itunes:duration>10:00</itunes:duration>
+      <itunes:summary>Why the U.S. pays double for worse outcomes — the four design choices behind a $5.3T, 18%-of-GDP system.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Episode 2: The insurance card lie most Americans believe</title>
+      <description>Two workers at the same employer with same-looking insurance cards can be on structurally different products — and most never know it. We unpack insurance as risk-pooling, the fully-insured vs self-insured split (~6 in 10 commercially covered Americans are on self-insured plans), the HMO/PPO network tradeoff, and Medicare Parts A and B — including Part B's unlimited 20% exposure that created the Medigap shadow industry.</description>
+      <link>https://reggieyang1126.github.io/my_podcast/feeds/daily_healthcare/</link>
+      <guid>daily-healthcare-episode-002</guid>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+      <enclosure
+        url="https://drive.google.com/uc?export=download&amp;id=1S0ugmRHLcwePBnqss2aYJfRTfrcN4yw2"
+        length="10000000"
+        type="audio/mpeg"/>
+      <itunes:duration>10:00</itunes:duration>
+      <itunes:summary>For most Americans with employer coverage, the "insurance company" is just an administrator — the employer is the real payer.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Episode 3: How Medicare Advantage flipped the whole game</title>
+      <description>Medicare Advantage is the fastest-growing health insurance category in America — and the business model is almost the opposite of what most people assume "Medicare" means. We cover private plans paid a monthly check per member, Part D pharmacy, Medicaid's dual role as safety net and long-term care payer, and the government programs (VA, TRICARE, IHS) that sit outside the main system.</description>
+      <link>https://reggieyang1126.github.io/my_podcast/feeds/daily_healthcare/</link>
+      <guid>daily-healthcare-episode-003</guid>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+      <enclosure
+        url="https://drive.google.com/uc?export=download&amp;id=1TBFBaflMmqV5P7l0qn-zxkb1tKSu8p1O"
+        length="10000000"
+        type="audio/mpeg"/>
+      <itunes:duration>10:00</itunes:duration>
+      <itunes:summary>Medicare Advantage's capitated business model — and why it flipped the economics of insuring seniors.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Episode 4: The real hospital price no one sees</title>
+      <description>A doctor's visit can fail before the patient walks in the door — and the bill lands two months later. Front-end eligibility and back-end contracting are the invisible plumbing that decide whether care gets paid for. We cover the ACA marketplace, eligibility mechanics, payer-provider contracting, and why the "real" price of a hospital procedure is buried inside negotiated rates that almost no one ever sees.</description>
+      <link>https://reggieyang1126.github.io/my_podcast/feeds/daily_healthcare/</link>
+      <guid>daily-healthcare-episode-004</guid>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+      <enclosure
+        url="https://drive.google.com/uc?export=download&amp;id=1VmbjbZxukMCcGMb1BG4FEhZjkvy5TXAp"
+        length="10000000"
+        type="audio/mpeg"/>
+      <itunes:duration>10:00</itunes:duration>
+      <itunes:summary>Marketplace, eligibility, and contracting — the invisible plumbing that decides whether care gets paid for.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Episode 5: The math rule that built UnitedHealth's empire</title>
+      <description>A health insurer that runs "too efficient" is legally required to mail refund checks to its members. That one arithmetic constraint — the Medical Loss Ratio — quietly explains UnitedHealth's Optum strategy. We walk through self-insured plans, point solutions, payer economics, and why the MLR floor reshaped the vertical integration playbook for every major payer.</description>
+      <link>https://reggieyang1126.github.io/my_podcast/feeds/daily_healthcare/</link>
+      <guid>daily-healthcare-episode-005</guid>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+      <enclosure
+        url="https://drive.google.com/uc?export=download&amp;id=1Wfc0WaqnSOHv0yQqDRBKDgrIkh1D3YpN"
+        length="10000000"
+        type="audio/mpeg"/>
+      <itunes:duration>10:00</itunes:duration>
+      <itunes:summary>The Medical Loss Ratio — the one arithmetic rule behind Optum and the modern payer vertical integration playbook.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Episode 6: Why the same procedure costs $3,500 or $700</title>
+      <description>The same colonoscopy, same doctor, same equipment can cost $3,500 or $700 depending on which room the billing code says it happened in. That single fact explains a decade of hospital M&amp;A. We cover the provider landscape — hospitals, ASCs, physician practices — and the patient journey through the site-of-service arbitrage that's quietly reshaping where care actually happens.</description>
+      <link>https://reggieyang1126.github.io/my_podcast/feeds/daily_healthcare/</link>
+      <guid>daily-healthcare-episode-006</guid>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+      <enclosure
+        url="https://drive.google.com/uc?export=download&amp;id=1OE19Sx5h0PRrwypit8SgnKlbzZ6M2J5l"
+        length="10000000"
+        type="audio/mpeg"/>
+      <itunes:duration>10:00</itunes:duration>
+      <itunes:summary>Site-of-service arbitrage — why the same procedure costs wildly different amounts, and what that did to hospital M&amp;A.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Episode 7: Why doctors spend two hours charting per patient hour</title>
+      <description>The number one cause of physician burnout isn't patients or night shifts — it's the chart. For every hour with a patient, doctors spend roughly two hours documenting. We unpack documentation burden, the workforce crisis it's driving, post-acute care dynamics, and why the administrative tax on clinical time has become healthcare's most pressing operational problem.</description>
+      <link>https://reggieyang1126.github.io/my_podcast/feeds/daily_healthcare/</link>
+      <guid>daily-healthcare-episode-007</guid>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+      <enclosure
+        url="https://drive.google.com/uc?export=download&amp;id=1oxILOgcWPXv23BmZUoUzyTMa2HB-UPsK"
+        length="10000000"
+        type="audio/mpeg"/>
+      <itunes:duration>10:00</itunes:duration>
+      <itunes:summary>The documentation tax — 2 hours of charting per patient hour, and the workforce crisis it's creating.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Episode 8: Why Medicare won't pay for grandma's nursing home</title>
+      <description>Medicare does not pay for a nursing home. If Grandma needs long-term custodial care, the system's plan is: spend every dollar she has until she's poor enough for Medicaid. That's not a gap — it's the design. We cover long-term care financing, behavioral health's payment maze, digital health economics, and the consolidation wave reshaping who owns what.</description>
+      <link>https://reggieyang1126.github.io/my_podcast/feeds/daily_healthcare/</link>
+      <guid>daily-healthcare-episode-008</guid>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+      <enclosure
+        url="https://drive.google.com/uc?export=download&amp;id=1CZfk_ySGXOgG26p0kvgsKoLQ_Yf3UA6x"
+        length="10000000"
+        type="audio/mpeg"/>
+      <itunes:duration>10:00</itunes:duration>
+      <itunes:summary>LTC, behavioral health, digital health, and consolidation — the spend-down design most families never see coming.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Episode 9: How healthcare giants hide their wealth</title>
+      <description>A hospital can report a 3% operating margin and be either in great shape or near default. The difference is in footnotes that don't make the press release. Healthcare financial statements have their own grammar — we teach you how to read them, and how to spot what M&amp;A activity is really signaling about payer, provider, and pharma balance sheets.</description>
+      <link>https://reggieyang1126.github.io/my_podcast/feeds/daily_healthcare/</link>
+      <guid>daily-healthcare-episode-009</guid>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+      <enclosure
+        url="https://drive.google.com/uc?export=download&amp;id=1kpHa9RoZvquQJooFQj5xlTP9YZTMyvOf"
+        length="10000000"
+        type="audio/mpeg"/>
+      <itunes:duration>10:00</itunes:duration>
+      <itunes:summary>How to read healthcare financial statements — and what M&amp;A activity actually signals.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Episode 10: The $300B paperwork industry hiding in your bill</title>
+      <description>The U.S. spends roughly $250–300 billion a year just on the paperwork of billing for healthcare — more than it spends on all cancer drugs combined. That number is why RCM is a $100B+ industry. We cover the revenue cycle end-to-end: patient access, eligibility, and the coding basics that determine whether a claim ever gets paid.</description>
+      <link>https://reggieyang1126.github.io/my_podcast/feeds/daily_healthcare/</link>
+      <guid>daily-healthcare-episode-010</guid>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+      <enclosure
+        url="https://drive.google.com/uc?export=download&amp;id=1W123O25tJvT2UQJ1YV9JxPUR0hKkID0N"
+        length="10000000"
+        type="audio/mpeg"/>
+      <itunes:duration>10:00</itunes:duration>
+      <itunes:summary>$250–300B/year spent just on billing paperwork — why RCM is a $100B+ industry.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+  </channel>
+</rss>
