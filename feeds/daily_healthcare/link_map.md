@@ -1,20 +1,22 @@
-Ep 1 — Why America pays double for worse healthcare.mp3
-https://drive.google.com/open?id=163LgXUyNs5ovibnTHKkOFqgwKAC2QUGt&usp=drive_copy 
-Ep 2 — The insurance card lie most Americans believe.mp3
-https://drive.google.com/open?id=1S0ugmRHLcwePBnqss2aYJfRTfrcN4yw2&usp=drive_copy 
-Ep 3 — How Medicare Advantage flipped the whole game.mp3
-https://drive.google.com/open?id=1TBFBaflMmqV5P7l0qn-zxkb1tKSu8p1O&usp=drive_copy 
-Ep 4 — The real hospital price no one sees.mp3
-https://drive.google.com/open?id=1VmbjbZxukMCcGMb1BG4FEhZjkvy5TXAp&usp=drive_copy 
-Ep 5 — The math rule that built UnitedHealth's empire.mp3
-https://drive.google.com/open?id=1Wfc0WaqnSOHv0yQqDRBKDgrIkh1D3YpN&usp=drive_copy 
-Ep 6 — Why the same procedure costs $3,500 or $700.mp3
-https://drive.google.com/open?id=1OE19Sx5h0PRrwypit8SgnKlbzZ6M2J5l&usp=drive_copy 
-Ep 7 — Why doctors spend two hours charting per patient hour.mp3
-https://drive.google.com/open?id=1oxILOgcWPXv23BmZUoUzyTMa2HB-UPsK&usp=drive_copy 
-Ep 8 — Why Medicare won't pay for grandma's nursing home.mp3
-https://drive.google.com/open?id=1CZfk_ySGXOgG26p0kvgsKoLQ_Yf3UA6x&usp=drive_copy 
-Ep 9 — How healthcare giants hide their wealth.mp3
-https://drive.google.com/open?id=1kpHa9RoZvquQJooFQj5xlTP9YZTMyvOf&usp=drive_copy 
-Ep 10 — The $300B paperwork industry hiding in your bill.mp3 
-https://drive.google.com/open?id=1W123O25tJvT2UQJ1YV9JxPUR0hKkID0N&usp=drive_copy 
+part-0-prologue.mp3
+https://drive.google.com/open?id=1gVMLELSAgjj-nKkqHARYCj4eo_iI9Xo0&usp=drive_copy
+Part-1-payer-and-insurance.mp3
+https://drive.google.com/open?id=1kAIoSFwADVozkvYlniLrtitUHLtxI-Zj&usp=drive_copy
+Part-2-provider-and-clinical-operations.mp3
+https://drive.google.com/open?id=1SotZxqnjJEiJQD1jpTcTrY-SgrARm-Sm&usp=drive_copy
+Part-3-revenue-cycle-management.mp3
+https://drive.google.com/open?id=1PyZsSKF2mwT7HqcxkAZqCWR5rlqqFHnh&usp=drive_copy
+Part-4-care-models-and-payment-reform.mp3
+https://drive.google.com/open?id=1Ve-Yjeg8Pu2Nl6nb73J7jC3DOR8zLlZQ&usp=drive_copy
+Part-5-pharmacy-devices-and-diagnostics.mp3
+https://drive.google.com/open?id=1xji4LPBbUVcy1wE6yU4XNIWf0pg8pbFX&usp=drive_copy
+Part-6-regulatory-and-compliance.mp3
+https://drive.google.com/open?id=1_x_6PYZwjSzxFu1XkbDHPeTygCjiQE-J&usp=drive_copy
+Part-7-health-it-and-data-standards.mp3
+https://drive.google.com/open?id=1zPr3QmFiBqREXzRhp8urzJP15LiwTXOS&usp=drive_copy
+Part-8-population-health-and-public-health.mp3
+https://drive.google.com/open?id=1uM7XN_WBE4yIo_YInYZusvyyCICJdu-0&usp=drive_copy
+Part-9-patient-experience-and-access.mp3
+https://drive.google.com/open?id=1hl5-gUlYBInm96GqUynqj9Mtf5Cw7HRY&usp=drive_copy
+Part-10-epilogue.mp3
+https://drive.google.com/open?id=16n9PxIf4Ot_WMzCgu8O59DUZ7YMn3pMb&usp=drive_copy

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>The Daily Healthcare</title>
-    <description>A 31-episode walk through the U.S. healthcare system for investors, PMs, analysts, and operators. Each episode unpacks the mechanics, money anchors, and tensions behind how care actually gets paid for — from payer economics and Medicare Advantage to RCM, drug pricing, and value-based care.</description>
+    <description>An 11-episode tour of U.S. healthcare for investors, PMs, analysts, and operators — one domain per episode, from payer economics and Medicare Advantage to RCM, drug pricing, regulation, health IT, and value-based care. Grounded in plain language and the money behind every decision.</description>
     <language>en-us</language>
     <link>https://reggieyang1126.github.io/my_podcast/feeds/daily_healthcare/</link>
     <copyright>&#169; 2026 The Daily Healthcare</copyright>
     <managingEditor>ljyang.1126@gmail.com</managingEditor>
     <webMaster>ljyang.1126@gmail.com</webMaster>
-    <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
-    <lastBuildDate>Tue, 21 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
+    <lastBuildDate>Fri, 24 Apr 2026 00:00:00 +0000</lastBuildDate>
     <generator>Manual RSS Feed</generator>
 
     <!-- iTunes-specific tags -->
     <itunes:author>Reggie Yang</itunes:author>
-    <itunes:summary>A 31-episode walk through the U.S. healthcare system for investors, PMs, analysts, and operators — the mechanics, money anchors, and tensions behind how care gets paid for.</itunes:summary>
+    <itunes:summary>An 11-episode tour of U.S. healthcare for investors, PMs, analysts, and operators — one domain per episode, from payer economics to RCM, drug pricing, regulation, health IT, and value-based care.</itunes:summary>
     <itunes:owner>
       <itunes:name>Reggie Yang</itunes:name>
       <itunes:email>ljyang.1126@gmail.com</itunes:email>
@@ -24,152 +24,167 @@
     <itunes:explicit>no</itunes:explicit>
 
     <item>
-      <title>Episode 1: Why America pays double for worse healthcare</title>
-      <description>The U.S. spends ~$15,500 per capita on healthcare — more than double the OECD average — and gets worse life expectancy. We walk through the four design choices behind the gap: why healthcare breaks normal market rules, the five players (and the fully-insured vs self-insured split most people miss), the ten-step revenue cycle, and the WWII-era path dependence the U.S. can't easily unwind.</description>
+      <title>Episode 1: Prologue — Orientation</title>
+      <description>A grounding tour before the mechanics. Why the U.S. spends $4.5T a year on healthcare and still trails peers on outcomes — the three structural features (consumer isn't the buyer, demand is inelastic, information is asymmetric) that break normal market rules. The five player categories, the ten-step revenue cycle from premium to payment, and the WWII wage-control accident that locked the U.S. into employer-sponsored coverage. Sets up the iron triangle of cost, quality, and access that every later episode comes back to.</description>
       <link>https://reggieyang1126.github.io/my_podcast/feeds/daily_healthcare/</link>
       <guid>daily-healthcare-episode-001</guid>
-      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
       <enclosure
-        url="https://drive.google.com/uc?export=download&amp;id=163LgXUyNs5ovibnTHKkOFqgwKAC2QUGt"
+        url="https://drive.google.com/uc?export=download&amp;id=1gVMLELSAgjj-nKkqHARYCj4eo_iI9Xo0"
         length="10000000"
         type="audio/mpeg"/>
       <itunes:duration>10:00</itunes:duration>
-      <itunes:summary>Why the U.S. pays double for worse outcomes — the four design choices behind a $5.3T, 18%-of-GDP system.</itunes:summary>
+      <itunes:summary>Why the U.S. spends $4.5T on healthcare and trails on outcomes — and the WWII accident that locked it in.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
 
     <item>
-      <title>Episode 2: The insurance card lie most Americans believe</title>
-      <description>Two workers at the same employer with same-looking insurance cards can be on structurally different products — and most never know it. We unpack insurance as risk-pooling, the fully-insured vs self-insured split (~6 in 10 commercially covered Americans are on self-insured plans), the HMO/PPO network tradeoff, and Medicare Parts A and B — including Part B's unlimited 20% exposure that created the Medigap shadow industry.</description>
+      <title>Episode 2: Part 1 — Payer &amp; Insurance</title>
+      <description>The payer universe end-to-end. Risk pooling, plan design (HMO/PPO/EPO/POS), and the fully-insured vs. self-insured split that covers two-thirds of commercially insured Americans. All four parts of Medicare plus Medigap, Medicaid and the dual-eligible population, TRICARE/VA, and the ACA marketplace. The operational layer — eligibility, prior auth, coordination of benefits, payer-provider contracting — and the economics: the MLR floor that shapes payer strategy, the underwriting cycle, IBNR reserves, and the employer point-solutions ecosystem layered on top of every medical plan.</description>
       <link>https://reggieyang1126.github.io/my_podcast/feeds/daily_healthcare/</link>
       <guid>daily-healthcare-episode-002</guid>
-      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
       <enclosure
-        url="https://drive.google.com/uc?export=download&amp;id=1S0ugmRHLcwePBnqss2aYJfRTfrcN4yw2"
+        url="https://drive.google.com/uc?export=download&amp;id=1kAIoSFwADVozkvYlniLrtitUHLtxI-Zj"
         length="10000000"
         type="audio/mpeg"/>
       <itunes:duration>10:00</itunes:duration>
-      <itunes:summary>For most Americans with employer coverage, the "insurance company" is just an administrator — the employer is the real payer.</itunes:summary>
+      <itunes:summary>The payer universe — from risk pooling to Medicare Advantage to the MLR rule that shaped UnitedHealth's empire.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
 
     <item>
-      <title>Episode 3: How Medicare Advantage flipped the whole game</title>
-      <description>Medicare Advantage is the fastest-growing health insurance category in America — and the business model is almost the opposite of what most people assume "Medicare" means. We cover private plans paid a monthly check per member, Part D pharmacy, Medicaid's dual role as safety net and long-term care payer, and the government programs (VA, TRICARE, IHS) that sit outside the main system.</description>
+      <title>Episode 3: Part 2 — Provider &amp; Clinical Operations</title>
+      <description>Where care actually happens and who pays for it. Hospitals, ambulatory surgery centers, physician groups, FQHCs, and the site-of-service differentials driving hospital acquisition of practices. The patient journey, clinical documentation as the engine of billing and legal defense, care-team roles, and the workforce crisis driving burnout and staffing-agency economics. Post-acute care, long-term care and the Medicaid spend-down, behavioral health, telehealth, and digital-health business models. Consolidation, PE roll-ups, and how to read a hospital Form 990 or payer 10-K for what the footnotes are really saying.</description>
       <link>https://reggieyang1126.github.io/my_podcast/feeds/daily_healthcare/</link>
       <guid>daily-healthcare-episode-003</guid>
-      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
       <enclosure
-        url="https://drive.google.com/uc?export=download&amp;id=1TBFBaflMmqV5P7l0qn-zxkb1tKSu8p1O"
+        url="https://drive.google.com/uc?export=download&amp;id=1SotZxqnjJEiJQD1jpTcTrY-SgrARm-Sm"
         length="10000000"
         type="audio/mpeg"/>
       <itunes:duration>10:00</itunes:duration>
-      <itunes:summary>Medicare Advantage's capitated business model — and why it flipped the economics of insuring seniors.</itunes:summary>
+      <itunes:summary>Hospitals, ASCs, PE roll-ups, and the site-of-service arbitrage reshaping where U.S. care actually happens.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
 
     <item>
-      <title>Episode 4: The real hospital price no one sees</title>
-      <description>A doctor's visit can fail before the patient walks in the door — and the bill lands two months later. Front-end eligibility and back-end contracting are the invisible plumbing that decide whether care gets paid for. We cover the ACA marketplace, eligibility mechanics, payer-provider contracting, and why the "real" price of a hospital procedure is buried inside negotiated rates that almost no one ever sees.</description>
+      <title>Episode 4: Part 3 — Revenue Cycle Management</title>
+      <description>The $100B+ industry that exists because getting paid for care is so hard. The revenue cycle end-to-end: patient access and eligibility on the front, ICD-10/CPT/HCPCS coding in the middle, and DRG/APC grouping that turns codes into dollars under IPPS, OPPS, and the Medicare physician fee schedule. The chargemaster, UB-04 vs. CMS-1500 forms, EDI transactions (837/835/270/271), claim scrubbing, adjudication, denial management, and appeals. The patient as "last payer," the No Surprises Act, and the IDR process that's now the real battleground for out-of-network billing.</description>
       <link>https://reggieyang1126.github.io/my_podcast/feeds/daily_healthcare/</link>
       <guid>daily-healthcare-episode-004</guid>
-      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
       <enclosure
-        url="https://drive.google.com/uc?export=download&amp;id=1VmbjbZxukMCcGMb1BG4FEhZjkvy5TXAp"
+        url="https://drive.google.com/uc?export=download&amp;id=1PyZsSKF2mwT7HqcxkAZqCWR5rlqqFHnh"
         length="10000000"
         type="audio/mpeg"/>
       <itunes:duration>10:00</itunes:duration>
-      <itunes:summary>Marketplace, eligibility, and contracting — the invisible plumbing that decides whether care gets paid for.</itunes:summary>
+      <itunes:summary>$250–300B a year gets spent just on billing for healthcare — here's the ten-step relay that explains why.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
 
     <item>
-      <title>Episode 5: The math rule that built UnitedHealth's empire</title>
-      <description>A health insurer that runs "too efficient" is legally required to mail refund checks to its members. That one arithmetic constraint — the Medical Loss Ratio — quietly explains UnitedHealth's Optum strategy. We walk through self-insured plans, point solutions, payer economics, and why the MLR floor reshaped the vertical integration playbook for every major payer.</description>
+      <title>Episode 5: Part 4 — Care Models &amp; Payment Reform</title>
+      <description>The slow migration from fee-for-service to paying for outcomes. The full value-based care spectrum from pay-for-reporting to global budgets, and the mechanics of the big models: ACOs and MSSP tracks, bundled payments, capitation and global budgets, MIPS, HEDIS, and Star Ratings. Risk adjustment and HCC coding as the financial engine behind Medicare Advantage. The VBC-enabler sub-sector (Oak Street, ChenMed, Agilon, Privia, Aledade) that ran hot on MA full-risk economics and is now being repriced as v28 and rate pressure expose who can actually manage cost vs. who was just coding harder.</description>
       <link>https://reggieyang1126.github.io/my_podcast/feeds/daily_healthcare/</link>
       <guid>daily-healthcare-episode-005</guid>
-      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
       <enclosure
-        url="https://drive.google.com/uc?export=download&amp;id=1Wfc0WaqnSOHv0yQqDRBKDgrIkh1D3YpN"
+        url="https://drive.google.com/uc?export=download&amp;id=1Ve-Yjeg8Pu2Nl6nb73J7jC3DOR8zLlZQ"
         length="10000000"
         type="audio/mpeg"/>
       <itunes:duration>10:00</itunes:duration>
-      <itunes:summary>The Medical Loss Ratio — the one arithmetic rule behind Optum and the modern payer vertical integration playbook.</itunes:summary>
+      <itunes:summary>Volume vs. value — the 20-year drift from fee-for-service, and the MA full-risk sub-sector now being repriced.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
 
     <item>
-      <title>Episode 6: Why the same procedure costs $3,500 or $700</title>
-      <description>The same colonoscopy, same doctor, same equipment can cost $3,500 or $700 depending on which room the billing code says it happened in. That single fact explains a decade of hospital M&amp;A. We cover the provider landscape — hospitals, ASCs, physician practices — and the patient journey through the site-of-service arbitrage that's quietly reshaping where care actually happens.</description>
+      <title>Episode 6: Part 5 — Pharmacy, Devices &amp; Diagnostics</title>
+      <description>The product economy beneath the clinical encounter. Drug development from bench to bedside, FDA approval pathways (NDA/ANDA/BLA/510(k)/PMA), and the brand-generic-biosimilar pricing cliff. The alphabet of drug pricing (AWP, WAC, ASP), the 340B program and contract-pharmacy controversies, and the PBM layer (Caremark, Express Scripts, OptumRx) being reshaped by the IRA's Part D redesign and bipartisan rebate reform. Retail, specialty, and mail-order pharmacy economics. GLP-1s as the single largest cost story in employer plans. Medical devices (510(k) vs. PMA) and the diagnostics duopoly (LabCorp/Quest) with its own reimbursement rules.</description>
       <link>https://reggieyang1126.github.io/my_podcast/feeds/daily_healthcare/</link>
       <guid>daily-healthcare-episode-006</guid>
-      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
       <enclosure
-        url="https://drive.google.com/uc?export=download&amp;id=1OE19Sx5h0PRrwypit8SgnKlbzZ6M2J5l"
+        url="https://drive.google.com/uc?export=download&amp;id=1xji4LPBbUVcy1wE6yU4XNIWf0pg8pbFX"
         length="10000000"
         type="audio/mpeg"/>
       <itunes:duration>10:00</itunes:duration>
-      <itunes:summary>Site-of-service arbitrage — why the same procedure costs wildly different amounts, and what that did to hospital M&amp;A.</itunes:summary>
+      <itunes:summary>Pharma, devices, and diagnostics — 340B, PBMs, GLP-1s, and the pricing rules behind each product layer.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
 
     <item>
-      <title>Episode 7: Why doctors spend two hours charting per patient hour</title>
-      <description>The number one cause of physician burnout isn't patients or night shifts — it's the chart. For every hour with a patient, doctors spend roughly two hours documenting. We unpack documentation burden, the workforce crisis it's driving, post-acute care dynamics, and why the administrative tax on clinical time has become healthcare's most pressing operational problem.</description>
+      <title>Episode 7: Part 6 — Regulatory &amp; Compliance</title>
+      <description>The regulatory stack that makes healthcare the most rule-bound industry in the U.S. economy. CMS as the invisible kingmaker and the rulemaking calendar investors should track like earnings. HIPAA's privacy, security, and breach-notification rules. The fraud-and-abuse trio — Stark self-referral, the Anti-Kickback Statute, and the False Claims Act with its qui tam whistleblower engine behind most billion-dollar healthcare settlements. EMTALA, FDA jurisdiction across drugs/devices/software, state-level CON laws, accreditation (Joint Commission, NCQA, URAC), and the seven elements of a corporate compliance program.</description>
       <link>https://reggieyang1126.github.io/my_podcast/feeds/daily_healthcare/</link>
       <guid>daily-healthcare-episode-007</guid>
-      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
       <enclosure
-        url="https://drive.google.com/uc?export=download&amp;id=1oxILOgcWPXv23BmZUoUzyTMa2HB-UPsK"
+        url="https://drive.google.com/uc?export=download&amp;id=1_x_6PYZwjSzxFu1XkbDHPeTygCjiQE-J"
         length="10000000"
         type="audio/mpeg"/>
       <itunes:duration>10:00</itunes:duration>
-      <itunes:summary>The documentation tax — 2 hours of charting per patient hour, and the workforce crisis it's creating.</itunes:summary>
+      <itunes:summary>Stark, AKS, False Claims Act, HIPAA, EMTALA — the five rules that shape every healthcare business decision.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
 
     <item>
-      <title>Episode 8: Why Medicare won't pay for grandma's nursing home</title>
-      <description>Medicare does not pay for a nursing home. If Grandma needs long-term custodial care, the system's plan is: spend every dollar she has until she's poor enough for Medicaid. That's not a gap — it's the design. We cover long-term care financing, behavioral health's payment maze, digital health economics, and the consolidation wave reshaping who owns what.</description>
+      <title>Episode 8: Part 7 — Health IT &amp; Data Standards</title>
+      <description>The digital plumbing every clinical and billing workflow runs on. The $36B HITECH investment that put an EHR in every clinic, the vendor landscape dominated by Epic, and the data standards — HL7 v2 still running most interfaces, FHIR as the interoperability bet, X12 for EDI, plus the terminology stack (ICD-10, CPT, SNOMED, LOINC, RxNorm, NDC). Health information exchanges and TEFCA, clinical decision support, healthcare analytics, and the current AI wave from ambient documentation to imaging. Cybersecurity — why healthcare is the #1 ransomware target — and the 21st Century Cures Act's information-blocking rules.</description>
       <link>https://reggieyang1126.github.io/my_podcast/feeds/daily_healthcare/</link>
       <guid>daily-healthcare-episode-008</guid>
       <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
       <enclosure
-        url="https://drive.google.com/uc?export=download&amp;id=1CZfk_ySGXOgG26p0kvgsKoLQ_Yf3UA6x"
+        url="https://drive.google.com/uc?export=download&amp;id=1zPr3QmFiBqREXzRhp8urzJP15LiwTXOS"
         length="10000000"
         type="audio/mpeg"/>
       <itunes:duration>10:00</itunes:duration>
-      <itunes:summary>LTC, behavioral health, digital health, and consolidation — the spend-down design most families never see coming.</itunes:summary>
+      <itunes:summary>Epic, FHIR, HIPAA, and the $36B HITECH investment that turned healthcare IT into a strategic layer.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
 
     <item>
-      <title>Episode 9: How healthcare giants hide their wealth</title>
-      <description>A hospital can report a 3% operating margin and be either in great shape or near default. The difference is in footnotes that don't make the press release. Healthcare financial statements have their own grammar — we teach you how to read them, and how to spot what M&amp;A activity is really signaling about payer, provider, and pharma balance sheets.</description>
+      <title>Episode 9: Part 8 — Population Health &amp; Public Health</title>
+      <description>Zooming out from the individual encounter to the population. The difference between population health (a health system's defined group) and public health (government infrastructure), and the upstream vs. downstream intervention debate. Social determinants, the five domains, and why zip code predicts health better than genetic code. Chronic disease and the 80/20 spending rule. Preventive care, health equity and disparities measurement, the basics of epidemiology without the math, CDC and state/local public health capacity, community health workers, and the mental health and substance use crisis at population scale.</description>
       <link>https://reggieyang1126.github.io/my_podcast/feeds/daily_healthcare/</link>
       <guid>daily-healthcare-episode-009</guid>
-      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
       <enclosure
-        url="https://drive.google.com/uc?export=download&amp;id=1kpHa9RoZvquQJooFQj5xlTP9YZTMyvOf"
+        url="https://drive.google.com/uc?export=download&amp;id=1uM7XN_WBE4yIo_YInYZusvyyCICJdu-0"
         length="10000000"
         type="audio/mpeg"/>
       <itunes:duration>10:00</itunes:duration>
-      <itunes:summary>How to read healthcare financial statements — and what M&amp;A activity actually signals.</itunes:summary>
+      <itunes:summary>Population and public health — SDOH, the 80/20 rule, and why zip code predicts health better than genetic code.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
 
     <item>
-      <title>Episode 10: The $300B paperwork industry hiding in your bill</title>
-      <description>The U.S. spends roughly $250–300 billion a year just on the paperwork of billing for healthcare — more than it spends on all cancer drugs combined. That number is why RCM is a $100B+ industry. We cover the revenue cycle end-to-end: patient access, eligibility, and the coding basics that determine whether a claim ever gets paid.</description>
+      <title>Episode 10: Part 9 — Patient Experience &amp; Access</title>
+      <description>The front door where patients actually meet the system. Consumerism, high-deductible plans, and the HSA/FSA/HRA toolkit shaping employer-sponsored coverage. The health-literacy gap (only 12% of adults are proficient), patient portals as the digital front door, the hospital and Transparency in Coverage rules, and why transparency alone doesn't bend cost. Rising medical debt, CAHPS and HCAHPS tied to reimbursement, and the convergence with patient safety measurement. PROMs and PREMs as the "what patients actually report" layer. Access barriers across geography, language, disability, and the digital divide, plus the invisible family caregiver workforce.</description>
       <link>https://reggieyang1126.github.io/my_podcast/feeds/daily_healthcare/</link>
       <guid>daily-healthcare-episode-010</guid>
-      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
       <enclosure
-        url="https://drive.google.com/uc?export=download&amp;id=1W123O25tJvT2UQJ1YV9JxPUR0hKkID0N"
+        url="https://drive.google.com/uc?export=download&amp;id=1hl5-gUlYBInm96GqUynqj9Mtf5Cw7HRY"
         length="10000000"
         type="audio/mpeg"/>
       <itunes:duration>10:00</itunes:duration>
-      <itunes:summary>$250–300B/year spent just on billing paperwork — why RCM is a $100B+ industry.</itunes:summary>
+      <itunes:summary>HDHPs, health literacy, price transparency, medical debt — the consumer side of a system not designed for consumers.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Episode 11: Epilogue — Synthesis &amp; What's Next</title>
+      <description>Pulling the nine domains back together. The whole system is one connected graph: a payer decision reshapes provider economics, runs through RCM, is gated by regulation, powered by IT, and lands on a patient. A look back at the ten-step dollar flow with the full context now loaded in, and a look forward at the forces actively reshaping the system — AI in clinical and administrative workflows, pharmacy disruption, the next phase of payment-model reform, equity as a strategic priority, workforce transformation, and the consumerization of care.</description>
+      <link>https://reggieyang1126.github.io/my_podcast/feeds/daily_healthcare/</link>
+      <guid>daily-healthcare-episode-011</guid>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
+      <enclosure
+        url="https://drive.google.com/uc?export=download&amp;id=16n9PxIf4Ot_WMzCgu8O59DUZ7YMn3pMb"
+        length="10000000"
+        type="audio/mpeg"/>
+      <itunes:duration>10:00</itunes:duration>
+      <itunes:summary>The nine domains aren't silos — they're a graph. Final synthesis and what's shaping the next five years.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
 
